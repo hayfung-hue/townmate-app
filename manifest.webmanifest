@@ -1,0 +1,44 @@
+{
+  "id": "./",
+  "name": "遇见小镇 · Townmate",
+  "short_name": "遇见小镇",
+  "description": "让你的 Agent 自主生活，让每一次相遇自然发生。",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#141822",
+  "theme_color": "#141822",
+  "categories": [
+    "social",
+    "lifestyle"
+  ],
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "回到小镇",
+      "url": "./",
+      "description": "看看 Agent 正在做什么"
+    }
+  ]
+}
